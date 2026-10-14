@@ -1,0 +1,5 @@
+.validation{ color: red; }
+label{display: block}
+input[type="checkbox"] + label{
+  display: inline;
+}
